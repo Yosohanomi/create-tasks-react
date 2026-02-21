@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/create-tasks-react/static/css/main.b884cc9b.css",
+    "main.js": "/create-tasks-react/static/js/main.b399d3c0.js",
+    "index.html": "/create-tasks-react/index.html",
+    "main.b884cc9b.css.map": "/create-tasks-react/static/css/main.b884cc9b.css.map",
+    "main.b399d3c0.js.map": "/create-tasks-react/static/js/main.b399d3c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b884cc9b.css",
+    "static/js/main.b399d3c0.js"
+  ]
+}
